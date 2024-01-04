@@ -1,7 +1,6 @@
 # Face_Recognition
 
-- Objective:
-    - To Implement a facial recognition solution for a corporate office building.
+Implementation of a facial recognition solution for a corporate office building.
 
 - Features:
     - Identify and verify employees.
